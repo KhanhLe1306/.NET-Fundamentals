@@ -1,0 +1,15 @@
+C:\Users\khanh\Desktop\dotnet\TypesAndVariable\bin\Debug\net7.0\TypesAndVariable.exe
+C:\Users\khanh\Desktop\dotnet\TypesAndVariable\bin\Debug\net7.0\TypesAndVariable.deps.json
+C:\Users\khanh\Desktop\dotnet\TypesAndVariable\bin\Debug\net7.0\TypesAndVariable.runtimeconfig.json
+C:\Users\khanh\Desktop\dotnet\TypesAndVariable\bin\Debug\net7.0\TypesAndVariable.dll
+C:\Users\khanh\Desktop\dotnet\TypesAndVariable\bin\Debug\net7.0\TypesAndVariable.pdb
+C:\Users\khanh\Desktop\dotnet\TypesAndVariable\obj\Debug\net7.0\TypesAndVariable.csproj.AssemblyReference.cache
+C:\Users\khanh\Desktop\dotnet\TypesAndVariable\obj\Debug\net7.0\TypesAndVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanh\Desktop\dotnet\TypesAndVariable\obj\Debug\net7.0\TypesAndVariable.AssemblyInfoInputs.cache
+C:\Users\khanh\Desktop\dotnet\TypesAndVariable\obj\Debug\net7.0\TypesAndVariable.AssemblyInfo.cs
+C:\Users\khanh\Desktop\dotnet\TypesAndVariable\obj\Debug\net7.0\TypesAndVariable.csproj.CoreCompileInputs.cache
+C:\Users\khanh\Desktop\dotnet\TypesAndVariable\obj\Debug\net7.0\TypesAndVariable.dll
+C:\Users\khanh\Desktop\dotnet\TypesAndVariable\obj\Debug\net7.0\refint\TypesAndVariable.dll
+C:\Users\khanh\Desktop\dotnet\TypesAndVariable\obj\Debug\net7.0\TypesAndVariable.pdb
+C:\Users\khanh\Desktop\dotnet\TypesAndVariable\obj\Debug\net7.0\TypesAndVariable.genruntimeconfig.cache
+C:\Users\khanh\Desktop\dotnet\TypesAndVariable\obj\Debug\net7.0\ref\TypesAndVariable.dll
