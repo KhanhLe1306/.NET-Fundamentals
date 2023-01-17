@@ -1,0 +1,15 @@
+C:\Users\khanh\Desktop\dotnet\Object\bin\Debug\net7.0\Object.exe
+C:\Users\khanh\Desktop\dotnet\Object\bin\Debug\net7.0\Object.deps.json
+C:\Users\khanh\Desktop\dotnet\Object\bin\Debug\net7.0\Object.runtimeconfig.json
+C:\Users\khanh\Desktop\dotnet\Object\bin\Debug\net7.0\Object.dll
+C:\Users\khanh\Desktop\dotnet\Object\bin\Debug\net7.0\Object.pdb
+C:\Users\khanh\Desktop\dotnet\Object\obj\Debug\net7.0\Object.csproj.AssemblyReference.cache
+C:\Users\khanh\Desktop\dotnet\Object\obj\Debug\net7.0\Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanh\Desktop\dotnet\Object\obj\Debug\net7.0\Object.AssemblyInfoInputs.cache
+C:\Users\khanh\Desktop\dotnet\Object\obj\Debug\net7.0\Object.AssemblyInfo.cs
+C:\Users\khanh\Desktop\dotnet\Object\obj\Debug\net7.0\Object.csproj.CoreCompileInputs.cache
+C:\Users\khanh\Desktop\dotnet\Object\obj\Debug\net7.0\Object.dll
+C:\Users\khanh\Desktop\dotnet\Object\obj\Debug\net7.0\refint\Object.dll
+C:\Users\khanh\Desktop\dotnet\Object\obj\Debug\net7.0\Object.pdb
+C:\Users\khanh\Desktop\dotnet\Object\obj\Debug\net7.0\Object.genruntimeconfig.cache
+C:\Users\khanh\Desktop\dotnet\Object\obj\Debug\net7.0\ref\Object.dll
